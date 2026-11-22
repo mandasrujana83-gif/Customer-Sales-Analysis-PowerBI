@@ -1,6 +1,20 @@
 # Customer Sales Analysis Dashboard using Power BI
 ## Project Overview
 This project focuses on analyzing customer sales data using Microsoft Power BI. It provides insights into sales performance, customer distribution, product performance, and yearly sales trends through an interactive dashboard.
+## Project Structure
+```text
+Customer-Sales-Analysis-PowerBI/
+│
+├── Analystassistancehiring.xlsx
+├── README.md
+├── sales dahsdoard.jpeg
+└── sales performance dashboard.pbix
+```
+### File Description
+- `Analystassistancehiring.xlsx` – Original Excel dataset used for analysis.
+- `README.md` – Project documentation and details.
+- `sales dahsdoard.jpeg` – Dashboard preview image.
+- `sales performance dashboard.pbix` – Interactive Power BI report file.
 ## Dashboard Preview
 ![Sales Performance Dashboard](sales%20dahsdoard.jpeg)
 ## Tools and Technologies
@@ -41,9 +55,7 @@ Added Country and Product slicers to filter dashboard visuals and explore sales 
 - Data visualization
 - Interactive dashboard development
 - Business data analysis
-## Project Files
-- PowerBI: Contains the Power BI dashboard file.
-- Images: Contains the dashboard screenshot.
-- README.md: Contains project documentation.
+## Author
+- Manda Srujana
 ## Conclusion
 This project demonstrates how Power BI can transform raw sales data into meaningful business insights and support data-driven decision-making.
