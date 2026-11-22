@@ -2,7 +2,7 @@
 ## Project Overview
 This project focuses on analyzing customer sales data using Microsoft Power BI. It provides insights into sales performance, customer distribution, product performance, and yearly sales trends through an interactive dashboard.
 ## Dashboard Preview
-![Sales Performance Dashboard](Images/dashboard-preview.jpeg)
+![Sales Performance Dashboard](sales%20dahsdoard.jpeg)
 ## Tools and Technologies
 - Microsoft Power BI
 - Power Query Editor
