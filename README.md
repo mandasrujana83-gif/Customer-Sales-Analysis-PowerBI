@@ -17,6 +17,14 @@ Customer-Sales-Analysis-PowerBI/
 - `sales performance dashboard.pbix` – Interactive Power BI report file.
 ## Dashboard Preview
 ![Sales Performance Dashboard](sales%20dahsdoard.jpeg)
+## Key Insights
+Based on the dashboard analysis, the following insights were identified:
+- Total sales reached approximately 34K across 99 unique customers.
+- Shoes generated the highest sales at 16K, followed by Shirts at 10.2K and Caps at 8.2K.
+- USA recorded the highest country-wise sales at 13K, followed by Nepal at 11K and India at 10K.
+- Customers aged 25–35 contributed the highest sales at 19.6K.
+- The 25–35 age group had the highest customer count, with 56 customers.
+- Year 2018 recorded the highest annual sales at 9.25K, while 2019 recorded 8.10K.
 ## Tools and Technologies
 - Microsoft Power BI
 - Power Query Editor
@@ -32,14 +40,6 @@ Customer-Sales-Analysis-PowerBI/
 - Sales Trend by Year: Shows sales trends from 2016 to 2019.
 - Sales by Age Group: Analyzes sales across customer age groups.
 - Customers by Country and Age Group: Shows customer distribution.
-## Key Insights
-Based on the dashboard analysis, the following insights were identified:
-- Total sales reached approximately 34K across 99 unique customers.
-- Shoes generated the highest sales at 16K, followed by Shirts at 10.2K and Caps at 8.2K.
-- USA recorded the highest country-wise sales at 13K, followed by Nepal at 11K and India at 10K.
-- Customers aged 25–35 contributed the highest sales at 19.6K.
-- The 25–35 age group had the highest customer count, with 56 customers.
-- Year 2018 recorded the highest annual sales at 9.25K, while 2019 recorded 8.10K.
 ## Data Cleaning and Transformation
 - Imported Excel data into Power BI.
 - Used Power Query Editor for data cleaning.
