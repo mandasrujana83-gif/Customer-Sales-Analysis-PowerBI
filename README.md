@@ -16,7 +16,7 @@ Customer-Sales-Analysis-PowerBI/
 - `sales dahsdoard.jpeg` – Dashboard preview image.
 - `sales performance dashboard.pbix` – Interactive Power BI report file.
 ## Dashboard Preview
-![Sales Performance Dashboard](sales%20dahsdoard.jpeg)
+![Sales Performance Dashboard](SalesDashboard.png)
 ## Key Insights
 Based on the dashboard analysis, the following insights were identified:
 - Total sales reached approximately 34K across 99 unique customers.
